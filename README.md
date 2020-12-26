@@ -3,5 +3,5 @@
 
 ## Demo
 
-link: https://slelll.github.io/slider-React/
+link: https://slelll.github.io/about-me/
   __________________________________________________________
